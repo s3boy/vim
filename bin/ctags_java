@@ -1,0 +1,1 @@
+ctags --recurse --langmap=Java:.java --languages=Java --verbose -f tags
